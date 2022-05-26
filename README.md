@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/xXpdc4C/Banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fabicraft3D</h1>
 <h3 align="center">A Java and LUA Developer from Germany</h3>
-
+(img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp")
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/fabicraft3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fabicraft3d" height="30" width="40" /></a>
