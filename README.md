@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/xXpdc4C/Banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fabicraft3D</h1>
 <h3 align="center">A Java and LUA Developer from Germany</h3>
 
